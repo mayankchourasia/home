@@ -280,7 +280,7 @@ i,span{
             COLORS & BACKGROUND COLORS
 -----------------------------------------------------------------------------------------*/
 .dark-bg , .dark-bg p,.dark-bg h1, .dark-bg h2, .dark-bg h3, .dark-bg h4, .dark-bg h5, .dark-bg h6 {
-  color: #fff;
+  color: #000000;
 }
 
 .base-highlight { 
