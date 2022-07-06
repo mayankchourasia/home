@@ -1600,9 +1600,9 @@ color: #ddd;
   padding:10px 20px;
 }
 .intro-form .social a i{
-  margin-right: 10px;
+  margin-right: 0px;
   font-size: 28px;
-  float: left;
+  float: center;
 }
 
 .intro-form .social a:hover{
